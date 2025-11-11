@@ -93,6 +93,7 @@ Decision Bot demonstrates complete payment flow:
 ### Prerequisites
 ```bash
 pip install requests nacl base58
+pip install foundry-client
 ```
 
 ### Setup
