@@ -94,7 +94,11 @@ Decision Bot demonstrates complete payment flow:
 ```bash
 pip install requests nacl base58
 pip install foundry-client
+
+git clone https://github.com/FoundryNet/HN-Fleet.git
+cd HN-Fleet
 ```
+
 
 ### Setup
 ```bash
